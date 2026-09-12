@@ -1,0 +1,98 @@
+[
+ {
+  "method": "HETAL",
+  "mult": 327,
+  "rot": 14,
+  "depth": 214,
+  "spread": 105.0,
+  "n": 128
+ },
+ {
+  "method": "NEXUS",
+  "mult": 30,
+  "rot": 7,
+  "depth": 33,
+  "spread": 105.0,
+  "n": 128
+ },
+ {
+  "method": "2Quad",
+  "mult": 24,
+  "rot": 7,
+  "depth": 27,
+  "spread": 105.0,
+  "n": 128
+ },
+ {
+  "method": "THOR",
+  "mult": 170,
+  "rot": 49,
+  "depth": 182,
+  "spread": 105.0,
+  "n": 128
+ },
+ {
+  "method": "Cho24",
+  "mult": 106,
+  "rot": 84,
+  "depth": 57,
+  "spread": 105.0,
+  "n": 128
+ },
+ {
+  "method": "ACS",
+  "mult": 94,
+  "rot": 49,
+  "depth": 49,
+  "spread": 105.0,
+  "n": 128
+ },
+ {
+  "method": "HETAL",
+  "mult": 344,
+  "rot": 14,
+  "depth": 216,
+  "spread": 1103.5,
+  "n": 128
+ },
+ {
+  "method": "NEXUS",
+  "mult": 30,
+  "rot": 7,
+  "depth": 33,
+  "spread": 1103.5,
+  "n": 128
+ },
+ {
+  "method": "2Quad",
+  "mult": 24,
+  "rot": 7,
+  "depth": 27,
+  "spread": 1103.5,
+  "n": 128
+ },
+ {
+  "method": "THOR",
+  "mult": 262,
+  "rot": 77,
+  "depth": 282,
+  "spread": 1103.5,
+  "n": 128
+ },
+ {
+  "method": "Cho24",
+  "mult": 150,
+  "rot": 126,
+  "depth": 82,
+  "spread": 1103.5,
+  "n": 128
+ },
+ {
+  "method": "ACS",
+  "mult": 147,
+  "rot": 70,
+  "depth": 74,
+  "spread": 1103.5,
+  "n": 128
+ }
+]
