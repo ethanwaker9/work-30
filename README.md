@@ -11,10 +11,10 @@ hesoftmax/
                  rescaling with level dependent scales, rotation, hybrid key switching
   polyapprox/    Chebyshev fitting, minimum degree search, baby step giant step evaluation
   softmax/       the six homomorphic softmax methods, in ciphertext and plaintext form
-  bounds/        provable range bounds for a pre-normalization transformer, GPT-2 forward pass,
+  bounds/        provable range bounds for a pre normalization transformer, GPT-2 forward pass,
                  symbolic error bound, noise model and flooding parameters
   attack/        decryption oracle key recovery and the average case flooding sweep
-  experiments/   all measurement drivers, figure generation and LaTeX table generation
+  experiments/   all measurement drivers, and result presentations
 ```
 
 The six methods are `HETAL`, `NEXUS`, `2Quad`, `THOR`, `Cho24` and `ACS`, the last being the
